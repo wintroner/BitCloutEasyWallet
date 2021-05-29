@@ -1,2 +1,2 @@
 # BitCloutEasyWallet
-Bitclout toolbox,Easy to use BitClout!
+Bitclout's toolbox,Easy to use BitClout!
